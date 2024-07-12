@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Trial Lawyer and Peacemaker</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 1rem;
+            background: #fff;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        .content {
+            margin-bottom: 2rem;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Trial Lawyer and Peacemaker</p>
+    </header>
+    <div class="container">
+        <section class="content">
+            <h2>Welcome</h2>
+            <p>Welcome to my personal webpage. I am a dedicated trial lawyer with 22 years of experience in providing legal solutions and fostering peace. My goal is to offer my clients the best representation while striving to resolve conflicts amicably.</p>
+        </section>
+        <section class="content">
+            <h2>About Me</h2>
+            <p>I have been a lawyer and peacemaker for over two decades, helping individuals and businesses navigate through their legal challenges. My extensive experience in trial law and mediation has equipped me with the skills to handle complex legal issues effectively and with a focus on achieving peaceful resolutions.</p>
+        </section>
+        <section class="content">
+            <h2>Services</h2>
+            <ul>
+                <li>Trial Representation</li>
+                <li>Mediation and Conflict Resolution</li>
+                <li>Legal Consulting</li>
+                <li>Contract Negotiations</li>
+                <li>Dispute Resolution</li>
+            </ul>
+        </section>
+        <section class="content">
+            <h2>Contact Me</h2>
+            <p>If you need legal assistance or have any questions, please do not hesitate to contact me:</p>
+            <p>Email: <a href="mailto:your-email@example.com">your-email@example.com</a></p>
+            <p>Phone: (123) 456-7890</p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Your Name. All rights reserved.</p>
+    </footer>
+</body>
+</html>
